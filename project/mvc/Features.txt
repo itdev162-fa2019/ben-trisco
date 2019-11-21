@@ -1,0 +1,20 @@
+Project Description
+	For project 1, I focused on Option 2 for requirement 1. 
+I've created an ASP.NET Core using Visual Studio Code for a website utilizing the technologies
+learned throughout the course. This is just a basic website. I wanted to expand on the .NET backend
+portion of the class.
+
+	ASP.NET Core has a lot of features. ASP.NET features cross-platform
+and container support, able to deploy to Windows, Linux, and MacOS.
+ASP.NET offers high performance, being one of the fastest web application
+frameworks available. One of the reasons ASP.NET Core is faster is because of
+it's use of asynchronous patterns within the MVC and Kestrel frameworks.
+ASP.NET has merged together MVC and Web API, combining the two to simplify development.
+ASP.NET allows for web applications to be self hosted. Also, ASP.NET allows
+for the support of action filters, allowing developers to implement functionality that
+can be applied to an entire controller or action without modifying the action itself.
+This can be used for caching, error handling, authorization, or custom logic.
+The caching output technology in the ASP.NET is easy and supports caching output
+within the memory on the web server itself.
+
+Thank you for reading.
